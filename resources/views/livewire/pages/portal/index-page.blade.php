@@ -77,7 +77,7 @@
                             [
                                 'title' => 'Второй этап',
                                 'place' => 'Москва, инновационный<br> кластер Ломоносов',
-                                'time' => '12 мая - 17 июня 2026 г.',
+                                'time' => '26 мая - 16 июня 2026 г.',
                                 'numbers' => [
                                     'экспертов' => '20',
                                     'команд' => '9',
@@ -248,7 +248,8 @@
                 @php
                     $items = [
                         [
-                        'text' => 'Наука + экология = <span class="text-blue-400">БУДУЩЕЕ</span>'
+                           'title' => 'наука+экология',
+                            'text' => '= будущее'
                         ],
                         [
                             'title' => 'ломоносов',
@@ -308,12 +309,12 @@
                 <div class="flex flex-col gap-5 min-h-0">
                     <div class="flex flex-col text-center p-4 border border-blue-500 rounded-3xl">
                         <h2 class="text-4xl md:!text-3xl font-semibold">
-                            12 мая —<br><span class="text-blue-500">ОТКРЫТИЕ ФОРУМА</span>
+                            26 мая —<br><span class="text-blue-500">ОТКРЫТИЕ ФОРУМА</span>
                         </h2>
                     </div>
                     <div class="flex flex-col p-8 text-white bg-blue-500 rounded-3xl">
                         <h2 class="mb-4 text-4xl  md:!text-3xl  font-normal">
-                            <span class="font-semibold">13 МАЯ - 28 МАЯ<br></span>
+                            <span class="font-semibold">27 МАЯ - 15 ИЮНЯ<br></span>
                             Работа по программе акселератора:
                         </h2>
                         <div class="flex flex-col gap-4">
@@ -467,7 +468,7 @@
                         <span
                             class="bg-white rounded-full text-blue-500 px-4 py-2 text-2xl md:text-lg font-bold">ожидается</span>
                     </div>
-                    <p class="text-5xl md:text-3xl font-semibold text-white mb-4">12 мая — 28 мая 2026 г.</p>
+                    <p class="text-5xl md:text-3xl font-semibold text-white mb-4">26 мая — 16 июня 2026 г.</p>
                     <p class="text-3xl md:text-xl font-medium text-white mb-4">Россия, г. Москва,<br> Раменский бул., 1</p>
                     <p class="text-gray-400 text-xl md:text-lg">Кластер «Ломоносов»</p>
                 </div>
