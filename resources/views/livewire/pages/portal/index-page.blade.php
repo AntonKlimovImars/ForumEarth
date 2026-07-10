@@ -66,7 +66,7 @@
                             [
                                 'title' => 'Первый этап',
                                 'place' => 'Архангельск, земля<br>Ломоносова',
-                                'time' => '22-29 июня 2026 г.',
+                                'time' => '22-29 июня 2025 г.',
                                 'numbers' => [
                                      'стран-участниц' => '20',
                                      'участников форума' => '300+',
@@ -77,7 +77,7 @@
                             [
                                 'title' => 'Второй этап',
                                 'place' => 'Москва, инновационный<br> кластер Ломоносов',
-                                'time' => '26 мая - 16 июня 2026 г.',
+                                'time' => '26 мая - 22 июля 2026 г.',
                                 'numbers' => [
                                     'экспертов' => '20',
                                     'команд' => '9',
@@ -314,7 +314,7 @@
                     </div>
                     <div class="flex flex-col p-8 text-white bg-blue-500 rounded-3xl">
                         <h2 class="mb-4 text-4xl  md:!text-3xl  font-normal">
-                            <span class="font-semibold">27 МАЯ - 15 ИЮНЯ<br></span>
+                            <span class="font-semibold">27 МАЯ - 21 ИЮЛЯ<br></span>
                             Работа по программе акселератора:
                         </h2>
                         <div class="flex flex-col gap-4">
@@ -343,7 +343,7 @@
 
                     <div class="flex flex-col text-center p-4 border border-blue-500 rounded-3xl">
                         <h2 class="text-4xl md:!text-3xl  font-semibold">
-                            17 июня — ФИНАЛ<br>
+                            22 июля — ФИНАЛ<br>
                             <span class="text-blue-500">ЗАЩИТА ПРОЕКТОВ ПЕРЕД ИНВЕСТОРАМИ</span>
                         </h2>
                     </div>
@@ -468,7 +468,7 @@
                         <span
                             class="bg-white rounded-full text-blue-500 px-4 py-2 text-2xl md:text-lg font-bold">ожидается</span>
                     </div>
-                    <p class="text-5xl md:text-3xl font-semibold text-white mb-4">26 мая — 16 июня 2026 г.</p>
+                    <p class="text-5xl md:text-3xl font-semibold text-white mb-4">26 мая — 22 июля 2026 г.</p>
                     <p class="text-3xl md:text-xl font-medium text-white mb-4">Россия, г. Москва,<br> Раменский бул., 1</p>
                     <p class="text-gray-400 text-xl md:text-lg">Кластер «Ломоносов»</p>
                 </div>
