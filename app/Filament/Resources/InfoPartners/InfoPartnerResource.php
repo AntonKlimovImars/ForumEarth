@@ -34,6 +34,13 @@ class InfoPartnerResource extends Resource
         return InfoPartnersTable::configure($table);
     }
 
+    public static function getEloquentQuery(): \Illuminate\Database\Eloquent\Builder
+    {
+        return parent::getEloquentQuery()->withoutGlobalScopes([
+            'order',
+        ]);
+    }
+
     public static function getRelations(): array
     {
         return [
