@@ -27,6 +27,8 @@ class SponsorsTable
                 TextColumn::make('link')
                     ->searchable(),
             ])
+            ->reorderable('sort_order')
+            ->defaultSort('sort_order')
             ->filters([
                 //
             ])
