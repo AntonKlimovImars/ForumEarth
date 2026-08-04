@@ -25,8 +25,6 @@ class CountriesTable
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
-            ->reorderable('sort_order')
-            ->defaultSort('sort_order')
             ->filters([
                 //
             ])
